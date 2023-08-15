@@ -1,16 +1,11 @@
 {
-  
   "main": "index.js",
   "scripts": {
-    
     "build": "npm install",
-
     "start": "node index.js"
   },
   "engines": {
-
     "node": "14.x"
-
   },
   "author": "abel@mit.edu",
   "license": "MIT",
@@ -18,6 +13,5 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "mongodb": "^3.6.2"
-    
   }
 }
