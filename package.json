@@ -1,0 +1,29 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongodb": "^3.6.2"
+  },
+  "name": "badbank",
+  "version": "1.0.0",
+  "description": "badbank",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimmit/BadBank.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vimmit/BadBank/issues"
+  },
+  "homepage": "https://github.com/vimmit/BadBank#readme"
+}
